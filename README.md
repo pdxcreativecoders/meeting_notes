@@ -1,2 +1,1 @@
-# meeting_notes
-encrypted_repo
+U2FsdGVkX18SNFZ4kAAAAGQUVc7OOiMeIwY7zJACrLT5Bi/QyPhZtKR2luZyBq+1
